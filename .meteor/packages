@@ -25,3 +25,5 @@ pcel:loading
 pcel:accounting
 momentjs:moment
 showdown
+ian:accounts-ui-bootstrap-3
+accounts-password
