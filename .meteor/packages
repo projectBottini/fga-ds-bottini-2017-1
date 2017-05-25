@@ -24,4 +24,6 @@ iron:router
 pcel:loading
 pcel:accounting
 momentjs:moment
-showdown@1.0.8
+showdown
+ian:accounts-ui-bootstrap-3
+accounts-password
