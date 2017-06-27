@@ -25,6 +25,11 @@
       "resolved": "https://registry.npmjs.org/bindings/-/bindings-1.2.1.tgz",
       "from": "bindings@>=1.2.1 <1.3.0"
     },
+    "bluebird": {
+      "version": "2.11.0",
+      "resolved": "https://registry.npmjs.org/bluebird/-/bluebird-2.11.0.tgz",
+      "from": "bluebird@>=2.9.6 <3.0.0"
+    },
     "brace-expansion": {
       "version": "1.1.8",
       "resolved": "https://registry.npmjs.org/brace-expansion/-/brace-expansion-1.1.8.tgz",
@@ -195,6 +200,11 @@
       "resolved": "https://registry.npmjs.org/promise-polyfill/-/promise-polyfill-6.0.2.tgz",
       "from": "promise-polyfill@>=6.0.2 <7.0.0"
     },
+    "qs": {
+      "version": "2.4.2",
+      "resolved": "https://registry.npmjs.org/qs/-/qs-2.4.2.tgz",
+      "from": "qs@>=2.3.3 <3.0.0"
+    },
     "readable-stream": {
       "version": "1.1.14",
       "resolved": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.1.14.tgz",
@@ -219,6 +229,18 @@
       "version": "2.0.0",
       "resolved": "https://registry.npmjs.org/strip-bom/-/strip-bom-2.0.0.tgz",
       "from": "strip-bom@>=2.0.0 <3.0.0"
+    },
+    "stripe": {
+      "version": "3.3.4",
+      "resolved": "https://registry.npmjs.org/stripe/-/stripe-3.3.4.tgz",
+      "from": "stripe@3.3.4",
+      "dependencies": {
+        "lodash": {
+          "version": "3.10.1",
+          "resolved": "https://registry.npmjs.org/lodash/-/lodash-3.10.1.tgz",
+          "from": "lodash@>=3.1.0 <4.0.0"
+        }
+      }
     },
     "through": {
       "version": "2.3.8",
