@@ -1,10 +1,10 @@
 .cover{
   color: rgb(255, 255, 255);
   position: relative;
-  min-height: 680px;
-  padding-top:80px;
+  min-height: 350px;
+  padding-top:350px;
   background: url("/images/splash/rocket-shop.jpg") no-repeat scroll 0px 100% / cover transparent;
-  border-bottom:9px solid #7b9ed0;
+  border-bottom:0px solid #7b9ed0;
 }
 
 .jumbotron{

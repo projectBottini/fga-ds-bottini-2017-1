@@ -1,1 +1,7 @@
-node_modules/
+.idea
+node_modules
+.DS_Store
+*.swp
+*.swo
+settings.json
+settings.development.json
