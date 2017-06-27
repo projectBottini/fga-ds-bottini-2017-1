@@ -15,5 +15,5 @@ Template.loading.destroyed = function () {
   }
 };
 
-var message = '<p class="loading-message">Just a second...</p>';
+var message = '<p class="loading-message">Só um segundo...</p>';
 var spinner = '<div class="sk-spinner sk-spinner-rotating-plane"></div>';

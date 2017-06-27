@@ -15,7 +15,7 @@ Meteor.startup(function(){
             console.log(err);
             done(null,{success : false, message : err});
           }else{
-            done(null,{success : true, message : "Thank you for your purchase!", receipt_id : checkout.reference_key});
+            done(null,{success : true, message : "Obrigado por sua compra!", receipt_id : checkout.reference_key});
           }
         });
       });

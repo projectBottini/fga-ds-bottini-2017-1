@@ -9,14 +9,14 @@ Template.checkoutShow.onRendered(function(){
 
   //wire up KO and some test data
   checkoutModel = new CheckoutViewModel({
-    name : "Jill Test",
-    email : "jill@test.com",
+    name : "",
+    email : "",
     address : {
-      street : "12 Test Street",
-      city : "Hanalei",
-      state : "HI",
-      zip : "96714",
-      country : "US"
+      street : "",
+      city : "",
+      state : "",
+      zip : "",
+      country : ""
     }
   });
 

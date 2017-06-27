@@ -45,7 +45,7 @@ Template.cartShow.events({
       //just to be sure
       $(ev.currentTarget).val(newQty);
     }else{
-      sAlert.error("That's not a number...");
+      sAlert.error("Isto não é um número...");
     }
   }
 });
